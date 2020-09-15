@@ -2,8 +2,8 @@
 
 def adder():
     # Stores two numbers in two variables.
-    num1 = 10
-    num2 = 15
+    num1 = 33
+    num2 = 22
 
 # Adds the variable contents together and returns the total to the main program
 
