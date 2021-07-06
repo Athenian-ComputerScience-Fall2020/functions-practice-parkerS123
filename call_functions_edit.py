@@ -14,7 +14,12 @@ def offer_food():
 def say_bye():
    print("Cheerio then.")
 
+def joke():
+    print("Why is it annoying to eat nect to basketball players? ... because they dribble all the time")
 
-offer_drink()
+
+
 say_hi()
+offer_drink()
 offer_food()
+joke()

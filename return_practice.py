@@ -20,6 +20,6 @@ print(output_num)
 
 '''
 Add prediction(s) here:
-
+the output will be 45 because 50 -5 = 45 (math2)
 
 '''
